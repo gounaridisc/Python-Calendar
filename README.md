@@ -12,8 +12,7 @@ Event Management: Add and view events for each selected month.
 
 Usage Instructions
 
-Run the Application:
-python calendar_app.py
+Run the Application
 
 Navigate the Calendar:
 
